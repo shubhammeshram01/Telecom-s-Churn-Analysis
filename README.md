@@ -31,6 +31,7 @@ Therefore, finding those factors that increase customer churn is important to ta
 6) Histogram
 7) Pie
 
-# |Project Name|Teck Stack|Project File|My Linkdln Profile|My Github Profile|
+# Analysis Files :
+|Project Name|Teck Stack|Project File|My Linkdln Profile|My Github Profile|
 |-|-|-|-|-|
-|Telecom's Churn Analysis|Python,Pandas,Matplotlib,Seaborn | [File]() | [Linkdln]() | [Github](https://github.com/shubhammeshram01) |
+|Telecom's Churn Analysis|Python,Pandas,Matplotlib,Seaborn | [File]() | [Linkdln](https://www.linkedin.com/in/shubhammeshram01/) | [Github](https://github.com/shubhammeshram01) |
